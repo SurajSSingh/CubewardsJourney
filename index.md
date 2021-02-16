@@ -1,2 +1,1 @@
-#Welcome to the Cubewards Journey's official repository.
-A game made by RegalHyperus to test the UniVRM plugin.
+Welcome to the Cubewards Journey's official repository. So, The Cubewards Journey was a game made by RegalHyperus to test the UniVRM plugin, but now, it can serve as a little time-killer for whenever you get bored!
